@@ -1,0 +1,36 @@
+{
+	"type": "minecraftBedrock",
+	"name": "Alper's New Copper Features",
+	"namespace": "alper-s-new-copper-features",
+	"authors": [
+		"AlperAkca79"
+	],
+	"targetVersion": "1.17.30",
+	"description": "New Copper Items and Armor",
+	"experimentalGameplay": {
+		"enableGameTestFramework": false,
+		"additionalModdingCapabilities": false,
+		"cavesAndCliffs": false,
+		"holidayCreatorFeatures": true,
+		"creationOfCustomBiomes": false,
+		"upcomingCreatorFeatures": false,
+		"experimentalMolangFeatures": false,
+		"educationEdition": false
+	},
+	"packs": {
+		"behaviorPack": "./BP",
+		"resourcePack": "./RP"
+	},
+	"compiler": {
+		"plugins": [
+			"customItemComponents",
+			"customBlockComponents"
+			[
+				"simpleRewrite",
+				{
+					"packName": "Alper's New Copper Features"
+				}
+			]
+		]
+	}
+}
