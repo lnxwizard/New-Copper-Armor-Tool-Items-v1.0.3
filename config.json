@@ -1,7 +1,7 @@
 {
 	"type": "minecraftBedrock",
-	"name": "Alper's New Copper Features",
-	"namespace": "alper-s-new-copper-features",
+	"name": "New Copper Armor, Tool & Items v1.0.5",
+	"namespace": "new-copper-armor-too-items",
 	"authors": [
 		"AlperAkca79"
 	],
@@ -28,7 +28,7 @@
 			[
 				"simpleRewrite",
 				{
-					"packName": "Alper's New Copper Features"
+					"packName": "New Copper Armor, Tool & Items v1.0.5"
 				}
 			]
 		]
