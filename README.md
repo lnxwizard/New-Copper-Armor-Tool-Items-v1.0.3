@@ -1,6 +1,11 @@
-# Alper's New Copper Features
+# New Copper Armor, Tool & Items v1.0.5
 
-![Minecraft 17_02_2022 20_03_42](https://user-images.githubusercontent.com/91411319/177608395-a1e963a1-d601-4c27-bbd2-18d1056e40af.png)
+![New Copper Armors-Tools-Items Title](https://user-images.githubusercontent.com/91411319/177857338-14f6a4eb-d1fe-47a0-b99a-dc31b7252010.png)
+
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+![Minecraft 7 07 2022 21_24_00](https://user-images.githubusercontent.com/91411319/177857251-5f16b393-c8a2-40bb-8f73-629e4e930c41.png)
 
 New Copper Tools
 
@@ -37,13 +42,17 @@ Copper Sulfate Lantern
 Copper Armors
 
 Copper Helmet
-![Minecraft 17_02_2022 20_07_31](https://user-images.githubusercontent.com/91411319/177609207-fbfaf791-93db-4ad7-b126-f65853746d1b.png)
+![Minecraft 7 07 2022 22_07_56](https://user-images.githubusercontent.com/91411319/177857399-e27bad2e-afb7-4bf2-8f75-6f114b126844.png)
+
 
 Copper Chestplate
-![Minecraft 17_02_2022 20_07_46](https://user-images.githubusercontent.com/91411319/177609258-ce25d45c-1b11-490b-9302-481008cb3f4a.png)
+![Minecraft 7 07 2022 22_08_07](https://user-images.githubusercontent.com/91411319/177857422-bb1b1c23-9096-4924-8c48-392052816681.png)
+
 
 Copper Leggings
-![Minecraft 17_02_2022 20_07_56](https://user-images.githubusercontent.com/91411319/177609296-9a1e4375-4a10-4953-bbbc-acaf6818e386.png)
+![Minecraft 7 07 2022 22_08_18](https://user-images.githubusercontent.com/91411319/177857437-cc3b4f29-fc54-4c4d-8a94-dc8b7035e081.png)
+
 
 Copper Boots
-![Minecraft 17_02_2022 20_08_05](https://user-images.githubusercontent.com/91411319/177609333-1413a5b2-d77e-40d0-9f1f-591d2cd75f46.png)
+![Minecraft 7 07 2022 22_08_27](https://user-images.githubusercontent.com/91411319/177857457-f54e07ad-a10f-44d8-b1e5-5bac66103bbc.png)
+
