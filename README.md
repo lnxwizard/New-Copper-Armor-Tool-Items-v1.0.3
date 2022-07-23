@@ -1,4 +1,4 @@
-# New Copper Armor, Tool & Items v1.0.5
+# New Copper Armor, Tool & Items v1.0.3
 
 ![New Copper Armors-Tools-Items Title](https://user-images.githubusercontent.com/91411319/177857338-14f6a4eb-d1fe-47a0-b99a-dc31b7252010.png)
 
